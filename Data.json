@@ -1,3 +1,68 @@
-{
-    "players": {}
+ {
+    "players": {
+        "AmirMi": {
+            "wins": 2,
+            "losses": 0,
+            "draws": 0,
+            "games": 2,
+            "history": [
+                {
+                    "opponent": "AmirHs",
+                    "result": "WIN",
+                    "moves": 5
+                },
+                {
+                    "opponent": "AmirHs",
+                    "result": "WIN",
+                    "moves": 5
+                }
+            ]
+        },
+        "AmirHs": {
+            "wins": 0,
+            "losses": 3,
+            "draws": 1,
+            "games": 4,
+            "history": [
+                {
+                    "opponent": "AmirMi",
+                    "result": "LOSS",
+                    "moves": 5
+                },
+                {
+                    "opponent": "AmirMi",
+                    "result": "LOSS",
+                    "moves": 5
+                },
+                {
+                    "opponent": "Mosiiii",
+                    "result": "LOSS",
+                    "moves": 5
+                },
+                {
+                    "opponent": "Mosiiii",
+                    "result": "DRAW",
+                    "moves": 9
+                }
+            ]
+        },
+        "Mosiiii": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 1,
+            "games": 2,
+            "history": [
+                {
+                    "opponent": "AmirHs",
+                    "result": "WIN",
+                    "moves": 5
+                },
+                {
+                    "opponent": "AmirHs",
+                    "result": "DRAW",
+                    "moves": 9
+                }
+            ]
+        }
+    }
 }

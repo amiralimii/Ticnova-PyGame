@@ -146,4 +146,8 @@ The following items are planned enhancements for future iterations:
 
 ## 👨‍💻 Author
 
+<<<<<<< HEAD
 Developed by **[Your Name / Your GitHub Profile]([https://github.com/your-username](https://github.com/amiralimii/Ticnova-PyGame.git))**.
+=======
+Developed by **[Your Name / Your GitHub Profile](https://github.com/amiralimii/Ticnova-PyGame.git)**.
+>>>>>>> 1543ce2 (change something)
